@@ -1,4 +1,8 @@
-# Çiçeksepeti Test Otomasyon Bootcamp ÖDEV-2 ~ Bora Kutay Keskinoğlu   
+# Çiçeksepeti Test Otomasyon Bootcamp ÖDEV-2 ~ Bora Kutay Keskinoğlu 
+
+## Ödev 1 
+<a href="https://docs.google.com/spreadsheets/d/1r2GweE0ZIFQu-z-Lf2DQ_g0jGBwrAzj2jN0rUiHz8h8/edit?usp=sharing" target="blank"> <img align="left" alt="borakutay | eTablo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" />
+  <br>
 ## UserOperationsTest Sınıfı 
 ### Test Senaryosu 1 - Üye Girişi
 
@@ -49,4 +53,4 @@ Aynı şekilde ChromeDriver'ın pathını config üzerinden ayarlayabilirsiniz.
 * driverPath ise disk dışındaki adresin girildiği alan.
 
 
-<a href="https://github.com/BoraKutay" target="blank"> <img align="left" alt="borakutay | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />     
+   
